@@ -34,4 +34,6 @@ The abstract weather visualization uses a particle system that moves a speed pro
 
 ### Weather App
 
+A very simple weather app that shows a forcast of temperature, percipitation, and cloud coverage.
+
 *image to come*
