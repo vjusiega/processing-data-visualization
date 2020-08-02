@@ -18,11 +18,17 @@ The Orbit Clock is inspired by planetary motion. The hour, minute, and second ar
 
 ### Mondrian Clock 
 
+The Mondrian Clock is inspired by the famous geometric paintings by Piet Mondrian. Essentially, a square is first split up into *h* rectangles (h = the current hour). The largest rectangle is then split into *m* pieces (m = the current minute). Then a minute-rectangle is continuously split every second until the next full minute, at which time the said rectangle will split into two pieces to create the additional rectangle for the new minute. The same effect happens for the new hour. 
+
+The three iterations of the Mondrian Clock play with the effect of line weight and color contrast. 
+
 *image to come*
 
 ## Weather Visualization 
 
 ### Abstract 
+
+The abstract weather visualization uses a particle system that moves a speed proportional to the wind speed and that has colors coordinated with the temperature. 
 
 *image to come*
 
